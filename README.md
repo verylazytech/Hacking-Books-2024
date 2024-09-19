@@ -4,13 +4,13 @@ In the rapidly evolving world of cybersecurity, keeping up with the latest knowl
 
 @VeryLazyTech
 
-📎 [Medium](https://medium.com/@verylazytech)
+![Medium](https://img.shields.io/badge/Medium-%40verylazytech-%231572B6?style=for-the-badge&logo=medium&logoColor=white)
 
-📎 [Github](https://github.com/verylazytech)
+![Github](https://img.shields.io/badge/Github-verylazytech-%23181717?style=for-the-badge&logo=github&logoColor=white)
 
-📎 [Buy Me A Coffee](https://buymeacoffee.com/verylazytech)
+![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-verylazytech-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 
-📎 [My Shop](https://buymeacoffee.com/verylazytech/extras)
+![My Shop](https://img.shields.io/badge/My%20Shop-verylazytech-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 
 
 ## 1. Web Application Hacker’s Handbook 2
