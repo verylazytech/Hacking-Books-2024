@@ -3,7 +3,7 @@ Top Hacking Books for 2024 (plus Resources): FREE and Paid
 
 In the rapidly evolving world of cybersecurity, keeping up with the latest knowledge is crucial. Whether you’re a seasoned professional or just starting, having the right resources can make all the difference. Here’s a comprehensive list of essential hacking books and resources for 2024, including both free and paid options, to help you stay ahead in the field.
 
-1. Web Application Hacker’s Handbook 2
+# 1. Web Application Hacker’s Handbook 2
 
 ![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*f3kiZgExP2ZZ3zG9PutT1w.png)
 
@@ -13,22 +13,31 @@ Description: This book is a cornerstone for anyone serious about web application
 
 Cost: Paid
 
-2. Web Security Academy by PortSwigger
+# 2. Web Security Academy by PortSwigger
+
 Link: [`PortSwigger`](https://portswigger.net/web-security)
+
 Description: An excellent free resource offering interactive labs and courses on web security. It’s an ideal platform for hands-on learning, covering a range of vulnerabilities and attack methods.
+
 Cost: Free
 
-3. OWASP Web Security Testing Guide
+# 3. OWASP Web Security Testing Guide
+
 Link: [`OWASP`](https://owasp.org/www-project-web-security-testing-guide/)
+
 Description: This guide provides a comprehensive framework for testing web application security. It’s an essential resource for security professionals involved in vulnerability assessment and penetration testing.
+
 Cost: Free
 
-4. Web Security Testing Guide (Ellie Saad and Rick Mitchell v4.2)
-Link: OWASP
+# 4. Web Security Testing Guide (Ellie Saad and Rick Mitchell v4.2)
+
+Link: [`OWASP`](https://owasp.org/www-project-web-security-testing-guide/v42/)
+
 Description: This version of the OWASP guide focuses on the practical aspects of web security testing, offering updated techniques and methodologies.
+
 Cost: Free
 
-5. Real World Bug Hunting
+# 5. Real World Bug Hunting
 
 Link: Buy Now
 Description: A practical guide to finding and exploiting vulnerabilities. It includes real-world examples and case studies that can help readers understand how to approach bug hunting effectively.
