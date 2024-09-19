@@ -5,7 +5,7 @@ In the rapidly evolving world of cybersecurity, keeping up with the latest knowl
 
 # 1. Web Application Hacker’s Handbook 2
 
-![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*f3kiZgExP2ZZ3zG9PutT1w.png)
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*f3kiZgExP2ZZ3zG9PutT1w.png" alt="Alt text" width="500"/>
 
 Link: [`Buy Now`](https://buymeacoffee.com/verylazytech/e/304591)
 
