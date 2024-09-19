@@ -13,7 +13,7 @@ Description: This book is a cornerstone for anyone serious about web application
 
 Cost: Paid
 
-# 2. Web Security Academy by PortSwigger
+## 2. Web Security Academy by PortSwigger
 
 Link: [PortSwigger](https://portswigger.net/web-security)
 
@@ -21,7 +21,7 @@ Description: An excellent free resource offering interactive labs and courses on
 
 Cost: Free
 
-# 3. OWASP Web Security Testing Guide
+## 3. OWASP Web Security Testing Guide
 
 Link: [OWASP](https://owasp.org/www-project-web-security-testing-guide/)
 
@@ -29,7 +29,7 @@ Description: This guide provides a comprehensive framework for testing web appli
 
 Cost: Free
 
-# 4. Web Security Testing Guide (Ellie Saad and Rick Mitchell v4.2)
+## 4. Web Security Testing Guide (Ellie Saad and Rick Mitchell v4.2)
 
 Link: [OWASP](https://owasp.org/www-project-web-security-testing-guide/v42/)
 
@@ -37,7 +37,7 @@ Description: This version of the OWASP guide focuses on the practical aspects of
 
 Cost: Free
 
-# 5. Real World Bug Hunting
+## 5. Real World Bug Hunting
 
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*8WueMBsjADwYzWDXzlOElg.jpeg" alt="Alt text" width="500"/>
 
@@ -47,7 +47,7 @@ Description: A practical guide to finding and exploiting vulnerabilities. It inc
 
 Cost: Paid
 
-# 6. Bug Bounty Bootcamp
+## 6. Bug Bounty Bootcamp
 
 ![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*RB3CutrAMZHB39uewzhNwA.png)
 
@@ -57,7 +57,7 @@ Description: This book provides a hands-on approach to bug bounty hunting, offer
 
 Cost: Paid
 
-# 7. Red Team Field Manual
+## 7. Red Team Field Manual
 
 ![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*LouTEkgZaVyrgzz_BbICIA.png)
 
@@ -67,7 +67,7 @@ Description: A concise reference guide for Red Team operations. It covers a wide
 
 Cost: Paid
 
-# 8. Red Team Development and Operations: A Practical Guide
+## 8. Red Team Development and Operations: A Practical Guide
 
 ![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*450YW6hYkC8C5hCOzrLfGg.jpeg)
 
@@ -77,7 +77,7 @@ Description: This book offers in-depth coverage of Red Team operations, includin
 
 Cost: Paid
 
-# 9. Operator Handbook: Red Team + OSINT + Blue Team Reference
+## 9. Operator Handbook: Red Team + OSINT + Blue Team Reference
 
 ![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*joVi8iEotOPiLIngrutheQ.jpeg)
 
@@ -87,7 +87,7 @@ Description: A comprehensive handbook covering Red Team, OSINT, and Blue Team op
 
 Cost: Paid
 
-# 10. Tribe of Hackers Red Team
+## 10. Tribe of Hackers Red Team
 
 ![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*8WueMBsjADwYzWDXzlOElg.jpeg)
 
@@ -97,7 +97,7 @@ Description: Insights from experienced Red Team professionals on how they approa
 
 Cost: Paid
 
-# 11. The Pentester Blueprint
+## 11. The Pentester Blueprint
 
 ![](https://miro.medium.com/v2/resize:fit:640/format:webp/1*dNEtTYQhGzbFxpT-zHAriQ.png)
 
@@ -107,7 +107,7 @@ Description: A guide to becoming a successful penetration tester. It covers ever
 
 Cost: Paid
 
-# 12. OSINT Techniques: Resources for Uncovering Online Information
+## 12. OSINT Techniques: Resources for Uncovering Online Information
 
 ![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*EGznLdqB8eza3DaYg3iwAg.jpeg)
 
@@ -117,7 +117,7 @@ Description: This book focuses on Open Source Intelligence (OSINT) techniques, o
 
 Cost: Paid
 
-# 13. Evading EDR
+## 13. Evading EDR
 
 ![](https://miro.medium.com/v2/resize:fit:640/format:webp/1*MCYD0X1ixUDoLM792ehDeQ.jpeg)
 
@@ -127,7 +127,7 @@ Description: A guide to evading Endpoint Detection and Response (EDR) systems. I
 
 Cost: Paid
 
-#14. Attacking Network Protocols
+## 14. Attacking Network Protocols
 
 ![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*h116Q4DY6KbJJ8Prwp-ouA.jpeg)
 
@@ -137,7 +137,7 @@ Description: This book explores various network protocols and how they can be at
 
 Cost: Paid
 
-# 15. Black Hat GraphQL
+## 15. Black Hat GraphQL
 
 ![](https://miro.medium.com/v2/resize:fit:604/format:webp/1*iwpobX1XiANNzswlIzaR1Q.jpeg)
 
@@ -147,7 +147,7 @@ Description: An in-depth look at GraphQL security. This book covers potential vu
 
 Cost: Paid
 
-# 16. Hacking APIs
+## 16. Hacking APIs
 
 ![](https://miro.medium.com/v2/resize:fit:640/format:webp/1*3ucxpm-TkbdhWODEYYfgsQ.jpeg)
 
@@ -157,7 +157,7 @@ Description: A practical guide to hacking APIs, covering various attack vectors 
 
 Cost: Paid
 
-# 17. APISEC University
+## 17. APISEC University
 
 Link: [APISEC](https://www.apisecuniversity.com/)
 
@@ -165,7 +165,7 @@ Description: An educational platform focusing on API security. It offers courses
 
 Cost: Mixed (Some free content; some paid courses)
 
-# 18. Black Hat Go
+## 18. Black Hat Go
 
 ![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*8WueMBsjADwYzWDXzlOElg.jpeg)
 
@@ -175,7 +175,7 @@ Description: A guide to using the Go programming language for offensive security
 
 Cost: Paid
 
-# 19. Black Hat Python
+## 19. Black Hat Python
 
 ![](https://miro.medium.com/v2/resize:fit:640/format:webp/1*MD6A3kzl_Rmy3AzE6yliWA.jpeg)
 
@@ -185,7 +185,7 @@ Description: This book focuses on using Python for penetration testing and secur
 
 Cost: Paid
 
-# 20. Black Hat Bash
+## 20. Black Hat Bash
 
 ![](https://miro.medium.com/v2/resize:fit:640/format:webp/1*IrhAfm2wRTIqnUlUFcQpWg.jpeg)
 
@@ -195,7 +195,7 @@ Description: A guide to using Bash scripting for security operations. It covers 
 
 Cost: Paid
 
-# 21. Zseano’s Methodology
+## 21. Zseano’s Methodology
 
 Link: [Bug Bounty Hunter](https://www.bugbountyhunter.com/methodology/zseanos-methodology.pdf)
 
@@ -203,7 +203,7 @@ Description: A detailed methodology for bug bounty hunting, including tips and t
 
 Cost: Free
 
-# 22. Breaking into Information Security
+## 22. Breaking into Information Security
 
 ![](https://miro.medium.com/v2/resize:fit:640/format:webp/1*XRsQvyWny0oLlOEg0LcDcQ.jpeg)
 
@@ -213,7 +213,7 @@ Description: A guide for those looking to start a career in information security
 
 Cost: Paid
 
-# 23. Expanding Your Security Horizons
+## 23. Expanding Your Security Horizons
 
 ![](https://miro.medium.com/v2/resize:fit:622/format:webp/1*O5P4e7S7aPFTTMnbAruH-w.jpeg)
 
@@ -223,7 +223,7 @@ Description: This book provides insights into various areas of cybersecurity, he
 
 Cost: Paid
 
-# 24. Wiki Book Pentest Living Document
+## 24. Wiki Book Pentest Living Document
 
 Link: [GitHub](https://github.com/nixawk/pentest-wiki)
 
@@ -231,7 +231,7 @@ Description: A collaborative, living document covering various aspects of penetr
 
 Cost: Free
 
-# 25. HackTRICKS
+## 25. HackTRICKS
 
 Link: [Hacktricks](https://book.hacktricks.xyz/)
 
@@ -239,7 +239,7 @@ Description: A comprehensive guide to hacking techniques and methodologies. It c
 
 Cost: Free
 
-# 26. Fuzzing Lists
+## 26. Fuzzing Lists
 
 Link: [GitHub](https://github.com/secfigo/Awesome-Fuzzing)
 
@@ -247,7 +247,7 @@ Description: A collection of resources and tools for fuzzing applications. It in
 
 Cost: Free
 
-# 27. Sec Lists
+## 27. Sec Lists
 
 Link: [GitHub](https://github.com/danielmiessler/SecLists)
 
@@ -255,7 +255,7 @@ Description: A comprehensive collection of security-related lists, including use
 
 Cost: Free
 
-# 28. Payloads All The Things
+## 28. Payloads All The Things
 
 Link: [GitHub](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
@@ -263,7 +263,7 @@ Description: A repository of payloads and techniques for exploiting various vuln
 
 Cost: Free
 
-# 29. Pentester Lab
+## 29. Pentester Lab
 
 Link: [Pentester Lab](https://pentesterlab.com/)
 
@@ -271,7 +271,7 @@ Description: An online platform offering hands-on labs and exercises for penetra
 
 Cost: Mixed (Some free content; some paid labs)
 
-# 30. Try Hack Me: Red Team Fundamentals
+## 30. Try Hack Me: Red Team Fundamentals
 
 Link: TryHackMe
 
@@ -279,7 +279,7 @@ Description: An interactive learning platform focusing on Red Team fundamentals.
 
 Cost: Mixed (Some free content; some paid rooms)
 
-# 31. HTB Academy
+## 31. HTB Academy
 
 Link: [Hack The Box Academy](https://academy.hackthebox.com/)
 
