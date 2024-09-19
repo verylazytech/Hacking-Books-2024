@@ -3,7 +3,7 @@ Top Hacking Books for 2024 (plus Resources): FREE and Paid
 
 In the rapidly evolving world of cybersecurity, keeping up with the latest knowledge is crucial. Whether you’re a seasoned professional or just starting, having the right resources can make all the difference. Here’s a comprehensive list of essential hacking books and resources for 2024, including both free and paid options, to help you stay ahead in the field.
 
-# 1. Web Application Hacker’s Handbook 2
+## 1. Web Application Hacker’s Handbook 2
 
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*f3kiZgExP2ZZ3zG9PutT1w.png" alt="Alt text" width="500"/>
 
