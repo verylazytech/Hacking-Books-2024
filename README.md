@@ -5,7 +5,7 @@ In the rapidly evolving world of cybersecurity, keeping up with the latest knowl
 
 # 1. Web Application Hacker’s Handbook 2
 
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*f3kiZgExP2ZZ3zG9PutT1w.png" alt="Alt text" width="500"/>
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*f3kiZgExP2ZZ3zG9PutT1w.png" alt="Web Application Hacker’s Handbook 2" width="500"/>
 
 Link: [`Buy Now`](https://buymeacoffee.com/verylazytech/e/304591)
 
@@ -39,7 +39,7 @@ Cost: Free
 
 # 5. Real World Bug Hunting
 
-![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*8WueMBsjADwYzWDXzlOElg.jpeg)
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*8WueMBsjADwYzWDXzlOElg.jpeg" alt="Real World Bug Hunting" width="500"/>
 
 Link: [`Buy Now`](https://buymeacoffee.com/verylazytech/e/304600)
 
@@ -49,7 +49,7 @@ Cost: Paid
 
 # 6. Bug Bounty Bootcamp
 
-![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*RB3CutrAMZHB39uewzhNwA.png)
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*RB3CutrAMZHB39uewzhNwA.png" alt="Bug Bounty Bootcamp" width="500"/>
 
 Link: [`Buy Now`](https://buymeacoffee.com/verylazytech/e/304596)
 
@@ -59,7 +59,7 @@ Cost: Paid
 
 # 7. Red Team Field Manual
 
-![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*LouTEkgZaVyrgzz_BbICIA.png)
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*LouTEkgZaVyrgzz_BbICIA.png" alt="Red Team Field Manual" width="500"/>
 
 Link: [`Buy Now`](https://buymeacoffee.com/verylazytech/e/304597)
 
@@ -69,7 +69,7 @@ Cost: Paid
 
 # 8. Red Team Development and Operations: A Practical Guide
 
-![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*450YW6hYkC8C5hCOzrLfGg.jpeg)
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*450YW6hYkC8C5hCOzrLfGg.jpeg" alt="Red Team Development and Operations" width="500"/>
 
 Link: [`Buy Now`](https://buymeacoffee.com/verylazytech/e/304601)
 
@@ -79,7 +79,7 @@ Cost: Paid
 
 # 9. Operator Handbook: Red Team + OSINT + Blue Team Reference
 
-![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*joVi8iEotOPiLIngrutheQ.jpeg)
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*joVi8iEotOPiLIngrutheQ.jpeg" alt="Operator Handbook" width="500"/>
 
 Link: [`Buy Now`](https://buymeacoffee.com/verylazytech/e/304604)
 
@@ -89,7 +89,7 @@ Cost: Paid
 
 # 10. Tribe of Hackers Red Team
 
-![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*8WueMBsjADwYzWDXzlOElg.jpeg)
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*8WueMBsjADwYzWDXzlOElg.jpeg" alt="Tribe of Hackers Red Team" width="500"/>
 
 Link: [`Buy Now`](https://buymeacoffee.com/verylazytech/e/304618)
 
@@ -99,7 +99,7 @@ Cost: Paid
 
 # 11. The Pentester Blueprint
 
-![](https://miro.medium.com/v2/resize:fit:640/format:webp/1*dNEtTYQhGzbFxpT-zHAriQ.png)
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*dNEtTYQhGzbFxpT-zHAriQ.png" alt="The Pentester Blueprint" width="500"/>
 
 Link: [`Buy Now`](https://buymeacoffee.com/verylazytech/e/304619)
 
@@ -109,7 +109,7 @@ Cost: Paid
 
 # 12. OSINT Techniques: Resources for Uncovering Online Information
 
-![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*EGznLdqB8eza3DaYg3iwAg.jpeg)
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*EGznLdqB8eza3DaYg3iwAg.jpeg" alt="OSINT Techniques" width="500"/>
 
 Link: [`Buy Now`](https://buymeacoffee.com/verylazytech/e/304622)
 
@@ -119,7 +119,7 @@ Cost: Paid
 
 # 13. Evading EDR
 
-![](https://miro.medium.com/v2/resize:fit:640/format:webp/1*MCYD0X1ixUDoLM792ehDeQ.jpeg)
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*MCYD0X1ixUDoLM792ehDeQ.jpeg" alt="Evading EDR" width="500"/>
 
 Link: [`Buy Now`](https://buymeacoffee.com/verylazytech/e/304621)
 
@@ -127,9 +127,9 @@ Description: A guide to evading Endpoint Detection and Response (EDR) systems. I
 
 Cost: Paid
 
-#14. Attacking Network Protocols
+# 14. Attacking Network Protocols
 
-![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*h116Q4DY6KbJJ8Prwp-ouA.jpeg)
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*h116Q4DY6KbJJ8Prwp-ouA.jpeg" alt="Attacking Network Protocols" width="500"/>
 
 Link: [`Buy Now`](https://buymeacoffee.com/verylazytech/e/304623)
 
@@ -139,7 +139,7 @@ Cost: Paid
 
 # 15. Black Hat GraphQL
 
-![](https://miro.medium.com/v2/resize:fit:604/format:webp/1*iwpobX1XiANNzswlIzaR1Q.jpeg)
+<img src="https://miro.medium.com/v2/resize:fit:604/format:webp/1*iwpobX1XiANNzswlIzaR1Q.jpeg" alt="Black Hat GraphQL" width="500"/>
 
 Link: [`Buy Now`](https://buymeacoffee.com/verylazytech/e/304626)
 
@@ -149,7 +149,7 @@ Cost: Paid
 
 # 16. Hacking APIs
 
-![](https://miro.medium.com/v2/resize:fit:640/format:webp/1*3ucxpm-TkbdhWODEYYfgsQ.jpeg)
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*3ucxpm-TkbdhWODEYYfgsQ.jpeg" alt="Hacking APIs" width="500"/>
 
 Link: [`Buy Now`](https://buymeacoffee.com/verylazytech/e/304631)
 
@@ -167,7 +167,7 @@ Cost: Mixed (Some free content; some paid courses)
 
 # 18. Black Hat Go
 
-![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*8WueMBsjADwYzWDXzlOElg.jpeg)
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*8WueMBsjADwYzWDXzlOElg.jpeg" alt="Black Hat Go" width="500"/>
 
 Link: [`Buy Now`](https://buymeacoffee.com/verylazytech/e/304635)
 
@@ -177,112 +177,120 @@ Cost: Paid
 
 # 19. Black Hat Python
 
-![](https://miro.medium.com/v2/resize:fit:640/format:webp/1*MD6A3kzl_Rmy3AzE6yliWA.jpeg)
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*ZJ2h8b9RkYYeKMvSEkl_0w.jpeg" alt="Black Hat Python" width="500"/>
 
-Link: [`Buy Now`](https://buymeacoffee.com/verylazytech/e/304633)
+Link: [`Buy Now`](https://buymeacoffee.com/verylazytech/e/304636)
 
-Description: This book focuses on using Python for penetration testing and security research. It includes practical examples and code snippets for developing security tools.
-
-Cost: Paid
-
-# 20. Black Hat Bash
-
-![](https://miro.medium.com/v2/resize:fit:640/format:webp/1*IrhAfm2wRTIqnUlUFcQpWg.jpeg)
-
-Link: [`Buy Now`](https://buymeacoffee.com/verylazytech/e/304637)
-
-Description: A guide to using Bash scripting for security operations. It covers various techniques for automating tasks and developing security tools using Bash.
+Description: Focuses on using Python for penetration testing and security research. It includes practical examples and tools for automating security tasks and developing exploits.
 
 Cost: Paid
 
-# 21. Zseano’s Methodology
+# 20. Practical Malware Analysis
 
-Link: [`Bug Bounty Hunter`](https://www.bugbountyhunter.com/methodology/zseanos-methodology.pdf)
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*4s08M3tTXO6Qyw0THu83VA.jpeg" alt="Practical Malware Analysis" width="500"/>
 
-Description: A detailed methodology for bug bounty hunting, including tips and techniques for finding vulnerabilities and maximizing success in bug bounty programs.
+Link: [`Buy Now`](https://buymeacoffee.com/verylazytech/e/304641)
 
-Cost: Free
-
-# 22. Breaking into Information Security
-
-![](https://miro.medium.com/v2/resize:fit:640/format:webp/1*XRsQvyWny0oLlOEg0LcDcQ.jpeg)
-
-Link: [`Buy Now`](https://buymeacoffee.com/verylazytech/e/304640)
-
-Description: A guide for those looking to start a career in information security. It covers essential skills, knowledge areas, and career advice for aspiring security professionals.
+Description: A detailed guide to analyzing malware, covering various techniques and tools used in malware analysis and reverse engineering.
 
 Cost: Paid
 
-# 23. Expanding Your Security Horizons
+# 21. Cybersecurity for Beginners
 
-![](https://miro.medium.com/v2/resize:fit:622/format:webp/1*O5P4e7S7aPFTTMnbAruH-w.jpeg)
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*9DZKwStCzr2zqSniYXK06g.png" alt="Cybersecurity for Beginners" width="500"/>
 
-Link: [`Amazon`](https://amzn.to/3GU07Iq)
+Link: [`Buy Now`](https://buymeacoffee.com/verylazytech/e/304644)
 
-Description: This book provides insights into various areas of cybersecurity, helping readers expand their knowledge and explore new areas of interest in the field.
+Description: An introductory book for those new to cybersecurity. It provides a foundational understanding of key concepts and practices in the field.
 
 Cost: Paid
 
-# 24. Wiki Book Pentest Living Document
+# 22. The Art of Invisibility
 
-Link: [`GitHub`](https://github.com/nixawk/pentest-wiki)
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*SEbDSOYFb1dOE2HewwnKzg.jpeg" alt="The Art of Invisibility" width="500"/>
 
-Description: A collaborative, living document covering various aspects of penetration testing. It’s a valuable resource for staying updated on the latest techniques and tools.
+Link: [`Buy Now`](https://buymeacoffee.com/verylazytech/e/304645)
 
-Cost: Free
+Description: Focuses on privacy and anonymity in the digital age. It offers practical advice for protecting personal information and maintaining privacy online.
 
-# 25. HackTRICKS
+Cost: Paid
 
-Link: [`Hacktricks`](https://book.hacktricks.xyz/)
+# 23. The Hacker Playbook 3
 
-Description: A comprehensive guide to hacking techniques and methodologies. It covers various aspects of penetration testing and ethical hacking.
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*JTW8zP2REXbTQuuewTLW_w.png" alt="The Hacker Playbook 3" width="500"/>
 
-Cost: Free
+Link: [`Buy Now`](https://buymeacoffee.com/verylazytech/e/304646)
 
-# 26. Fuzzing Lists
+Description: The latest edition in the Hacker Playbook series, offering updated techniques and strategies for penetration testing and offensive security.
 
-Link: [`GitHub`](https://github.com/secfigo/Awesome-Fuzzing)
+Cost: Paid
 
-Description: A collection of resources and tools for fuzzing applications. It includes various lists and tools for discovering vulnerabilities through fuzz testing.
+# 24. Advanced Penetration Testing
 
-Cost: Free
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*vGoszmW6jIKfHhDoGdIF-w.png" alt="Advanced Penetration Testing" width="500"/>
 
-# 27. Sec Lists
+Link: [`Buy Now`](https://buymeacoffee.com/verylazytech/e/304648)
 
-Link: [`GitHub`](https://github.com/danielmiessler/SecLists)
+Description: A comprehensive guide to advanced penetration testing techniques and methodologies. It covers complex scenarios and provides practical advice for experienced testers.
 
-Description: A comprehensive collection of security-related lists, including usernames, passwords, and other data used in penetration testing and security assessments.
+Cost: Paid
 
-Cost: Free
+# 25. Practical Penetration Testing
 
-# 28. Payloads All The Things
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*Wvl3EJhYmz_UF93Q_FpRUw.png" alt="Practical Penetration Testing" width="500"/>
 
-Link: [`GitHub`](https://github.com/swisskyrepo/PayloadsAllTheThings)
+Link: [`Buy Now`](https://buymeacoffee.com/verylazytech/e/304652)
 
-Description: A repository of payloads and techniques for exploiting various vulnerabilities. It’s a valuable resource for penetration testers looking for specific payloads and attack methods.
+Description: This book focuses on practical aspects of penetration testing, offering hands-on examples and methodologies for real-world scenarios.
 
-Cost: Free
+Cost: Paid
 
-# 29. Pentester Lab
+# 26. The Basics of Hacking and Penetration Testing
 
-Link: [`Pentester Lab`](https://pentesterlab.com/)
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*BBIm2eT7YweVSojE0hQ_VA.jpeg" alt="The Basics of Hacking and Penetration Testing" width="500"/>
 
-Description: An online platform offering hands-on labs and exercises for penetration testing. It’s ideal for practicing and improving your skills in a controlled environment.
+Link: [`Buy Now`](https://buymeacoffee.com/verylazytech/e/304654)
 
-Cost: Mixed (Some free content; some paid labs)
+Description: An introductory guide to hacking and penetration testing. It provides a foundation for beginners and covers essential techniques and tools.
 
-# 30. Try Hack Me: Red Team Fundamentals
+Cost: Paid
 
-Link: TryHackMe
+# 27. The Hacker’s Playbook 2: Practical Guide to Penetration Testing
 
-Description: An interactive learning platform focusing on Red Team fundamentals. It offers hands-on exercises and challenges to help users learn about Red Team operations.
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*7jF_R8oR40OmlHK9V7Wu8A.png" alt="The Hacker’s Playbook 2" width="500"/>
 
-Cost: Mixed (Some free content; some paid rooms)
+Link: [`Buy Now`](https://buymeacoffee.com/verylazytech/e/304656)
 
-# 31. HTB Academy
+Description: The second book in the Hacker’s Playbook series, offering additional techniques and strategies for penetration testing and security assessments.
 
-Link: [`Hack The Box Academy`](https://academy.hackthebox.com/)
+Cost: Paid
 
-Description: An educational platform offering a range of courses and labs related to ethical hacking and penetration testing.
+# 28. Hacking: The Art of Exploitation
 
-Cost: Mixed (Some free content; some paid courses)
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*xZUJSk8te36izCRdpxfu8g.png" alt="Hacking: The Art of Exploitation" width="500"/>
+
+Link: [`Buy Now`](https://buymeacoffee.com/verylazytech/e/304660)
+
+Description: This classic book provides a deep dive into hacking techniques and exploitation. It covers both theoretical concepts and practical examples.
+
+Cost: Paid
+
+# 29. Hacking Exposed: Network Security Secrets and Solutions
+
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*xZUJSk8te36izCRdpxfu8g.png" alt="Hacking Exposed" width="500"/>
+
+Link: [`Buy Now`](https://buymeacoffee.com/verylazytech/e/304664)
+
+Description: A comprehensive guide to network security, offering insights into various attack vectors and defensive strategies.
+
+Cost: Paid
+
+# 30. Practical Reverse Engineering
+
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*xZUJSk8te36izCRdpxfu8g.png" alt="Practical Reverse Engineering" width="500"/>
+
+Link: [`Buy Now`](https://buymeacoffee.com/verylazytech/e/304668)
+
+Description: This book provides practical techniques for reverse engineering software and understanding how applications work at a low level.
+
+Cost: Paid
