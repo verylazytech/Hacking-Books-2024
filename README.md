@@ -175,7 +175,7 @@ Cost: Mixed (Some free content; some paid courses)
 
 ## 18. Black Hat Go
 
-![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*8WueMBsjADwYzWDXzlOElg.jpeg)
+![](https://miro.medium.com/v2/resize:fit:640/format:webp/1*8tx_MimVYyVXe8CmkKIwEg.jpeg)
 
 Link: [Buy Now](https://buymeacoffee.com/verylazytech/e/304635)
 
