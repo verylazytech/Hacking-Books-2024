@@ -13,7 +13,7 @@ In the rapidly evolving world of cybersecurity, keeping up with the latest knowl
 
 ## 1. Web Application Hacker’s Handbook 2
 
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*f3kiZgExP2ZZ3zG9PutT1w.png" alt="Alt text" width="500"/>
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*f3kiZgExP2ZZ3zG9PutT1w.png" alt="Alt text" width="200"/>
 
 Link: [Buy Now](https://buymeacoffee.com/verylazytech/e/304591)
 
@@ -47,7 +47,7 @@ Cost: Free
 
 ## 5. Real World Bug Hunting
 
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*8WueMBsjADwYzWDXzlOElg.jpeg" alt="Alt text" width="500"/>
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*8WueMBsjADwYzWDXzlOElg.jpeg" alt="Alt text" width="200"/>
 
 Link: [Buy Now](https://buymeacoffee.com/verylazytech/e/304600)
 
@@ -57,7 +57,7 @@ Cost: Paid
 
 ## 6. Bug Bounty Bootcamp
 
-![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*RB3CutrAMZHB39uewzhNwA.png)
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*RB3CutrAMZHB39uewzhNwA.png" alt="Alt text" width="200"/>
 
 Link: [Buy Now](https://buymeacoffee.com/verylazytech/e/304596)
 
@@ -67,7 +67,7 @@ Cost: Paid
 
 ## 7. Red Team Field Manual
 
-![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*LouTEkgZaVyrgzz_BbICIA.png)
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*LouTEkgZaVyrgzz_BbICIA.png" alt="Alt text" width="200"/>
 
 Link: [Buy Now](https://buymeacoffee.com/verylazytech/e/304597)
 
@@ -77,7 +77,7 @@ Cost: Paid
 
 ## 8. Red Team Development and Operations: A Practical Guide
 
-![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*450YW6hYkC8C5hCOzrLfGg.jpeg)
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*450YW6hYkC8C5hCOzrLfGg.jpeg" alt="Alt text" width="200"/>
 
 Link: [Buy Now](https://buymeacoffee.com/verylazytech/e/304601)
 
@@ -87,7 +87,7 @@ Cost: Paid
 
 ## 9. Operator Handbook: Red Team + OSINT + Blue Team Reference
 
-![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*joVi8iEotOPiLIngrutheQ.jpeg)
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*joVi8iEotOPiLIngrutheQ.jpeg" alt="Alt text" width="200"/>
 
 Link: [Buy Now](https://buymeacoffee.com/verylazytech/e/304604)
 
@@ -97,7 +97,7 @@ Cost: Paid
 
 ## 10. Tribe of Hackers Red Team
 
-![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*8WueMBsjADwYzWDXzlOElg.jpeg)
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*8WueMBsjADwYzWDXzlOElg.jpeg" alt="Alt text" width="200"/>
 
 Link: [Buy Now](https://buymeacoffee.com/verylazytech/e/304618)
 
@@ -107,7 +107,7 @@ Cost: Paid
 
 ## 11. The Pentester Blueprint
 
-![](https://miro.medium.com/v2/resize:fit:640/format:webp/1*dNEtTYQhGzbFxpT-zHAriQ.png)
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*dNEtTYQhGzbFxpT-zHAriQ.png" alt="Alt text" width="200"/>
 
 Link: [Buy Now](https://buymeacoffee.com/verylazytech/e/304619)
 
@@ -117,7 +117,7 @@ Cost: Paid
 
 ## 12. OSINT Techniques: Resources for Uncovering Online Information
 
-![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*EGznLdqB8eza3DaYg3iwAg.jpeg)
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*EGznLdqB8eza3DaYg3iwAg.jpeg" alt="Alt text" width="200"/>
 
 Link: [Buy Now](https://buymeacoffee.com/verylazytech/e/304622)
 
@@ -127,7 +127,7 @@ Cost: Paid
 
 ## 13. Evading EDR
 
-![](https://miro.medium.com/v2/resize:fit:640/format:webp/1*MCYD0X1ixUDoLM792ehDeQ.jpeg)
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*MCYD0X1ixUDoLM792ehDeQ.jpeg" alt="Alt text" width="200"/>
 
 Link: [Buy Now](https://buymeacoffee.com/verylazytech/e/304621)
 
@@ -137,7 +137,7 @@ Cost: Paid
 
 ## 14. Attacking Network Protocols
 
-![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*h116Q4DY6KbJJ8Prwp-ouA.jpeg)
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*h116Q4DY6KbJJ8Prwp-ouA.jpeg" alt="Alt text" width="200"/>
 
 Link: [Buy Now](https://buymeacoffee.com/verylazytech/e/304623)
 
@@ -147,7 +147,7 @@ Cost: Paid
 
 ## 15. Black Hat GraphQL
 
-![](https://miro.medium.com/v2/resize:fit:604/format:webp/1*iwpobX1XiANNzswlIzaR1Q.jpeg)
+<img src="https://miro.medium.com/v2/resize:fit:604/format:webp/1*iwpobX1XiANNzswlIzaR1Q.jpeg" alt="Alt text" width="200"/>
 
 Link: [Buy Now](https://buymeacoffee.com/verylazytech/e/304626)
 
@@ -157,7 +157,7 @@ Cost: Paid
 
 ## 16. Hacking APIs
 
-![](https://miro.medium.com/v2/resize:fit:640/format:webp/1*3ucxpm-TkbdhWODEYYfgsQ.jpeg)
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*3ucxpm-TkbdhWODEYYfgsQ.jpeg" alt="Alt text" width="200"/>
 
 Link: [Buy Now](https://buymeacoffee.com/verylazytech/e/304631)
 
@@ -175,7 +175,7 @@ Cost: Mixed (Some free content; some paid courses)
 
 ## 18. Black Hat Go
 
-![](https://miro.medium.com/v2/resize:fit:640/format:webp/1*8tx_MimVYyVXe8CmkKIwEg.jpeg)
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*8tx_MimVYyVXe8CmkKIwEg.jpeg" alt="Alt text" width="200"/>
 
 Link: [Buy Now](https://buymeacoffee.com/verylazytech/e/304635)
 
@@ -185,7 +185,7 @@ Cost: Paid
 
 ## 19. Black Hat Python
 
-![](https://miro.medium.com/v2/resize:fit:640/format:webp/1*MD6A3kzl_Rmy3AzE6yliWA.jpeg)
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*MD6A3kzl_Rmy3AzE6yliWA.jpeg" alt="Alt text" width="200"/>
 
 Link: [Buy Now](https://buymeacoffee.com/verylazytech/e/304633)
 
@@ -195,7 +195,7 @@ Cost: Paid
 
 ## 20. Black Hat Bash
 
-![](https://miro.medium.com/v2/resize:fit:640/format:webp/1*IrhAfm2wRTIqnUlUFcQpWg.jpeg)
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*IrhAfm2wRTIqnUlUFcQpWg.jpeg" alt="Alt text" width="200"/>
 
 Link: [Buy Now](https://buymeacoffee.com/verylazytech/e/304637)
 
@@ -213,7 +213,7 @@ Cost: Free
 
 ## 22. Breaking into Information Security
 
-![](https://miro.medium.com/v2/resize:fit:640/format:webp/1*XRsQvyWny0oLlOEg0LcDcQ.jpeg)
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*XRsQvyWny0oLlOEg0LcDcQ.jpeg" alt="Alt text" width="200"/>
 
 Link: [Buy Now](https://buymeacoffee.com/verylazytech/e/304640)
 
@@ -223,7 +223,7 @@ Cost: Paid
 
 ## 23. Expanding Your Security Horizons
 
-![](https://miro.medium.com/v2/resize:fit:622/format:webp/1*O5P4e7S7aPFTTMnbAruH-w.jpeg)
+<img src="https://miro.medium.com/v2/resize:fit:622/format:webp/1*O5P4e7S7aPFTTMnbAruH-w.jpeg" alt="Alt text" width="200"/>
 
 Link: [Amazon](https://amzn.to/3GU07Iq)
 
