@@ -15,7 +15,7 @@ In the rapidly evolving world of cybersecurity, keeping up with the latest knowl
 
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*f3kiZgExP2ZZ3zG9PutT1w.png" alt="Alt text" width="200"/>
 
-Link: [Buy Now](https://buymeacoffee.com/verylazytech/e/304591)
+Link: [Buy Now](https://shop.verylazytech.com//l/TheWebApplicationHackersHandbook2)
 
 Description: This book is a cornerstone for anyone serious about web application security. It covers a wide range of topics, including advanced techniques for exploiting web applications.
 
@@ -49,7 +49,7 @@ Cost: Free
 
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*8WueMBsjADwYzWDXzlOElg.jpeg" alt="Alt text" width="200"/>
 
-Link: [Buy Now](https://buymeacoffee.com/verylazytech/e/304600)
+Link: [Buy Now](https://shop.verylazytech.com/l/Real-WorldBugHuntingAFieldGuidetoWebHacking)
 
 Description: A practical guide to finding and exploiting vulnerabilities. It includes real-world examples and case studies that can help readers understand how to approach bug hunting effectively.
 
@@ -59,7 +59,7 @@ Cost: Paid
 
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*RB3CutrAMZHB39uewzhNwA.png" alt="Alt text" width="200"/>
 
-Link: [Buy Now](https://buymeacoffee.com/verylazytech/e/304596)
+Link: [Buy Now](https://shop.verylazytech.com/l/BugBountyBootcamp)
 
 Description: This book provides a hands-on approach to bug bounty hunting, offering practical tips and strategies for finding vulnerabilities in web applications.
 
@@ -69,7 +69,7 @@ Cost: Paid
 
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*LouTEkgZaVyrgzz_BbICIA.png" alt="Alt text" width="200"/>
 
-Link: [Buy Now](https://buymeacoffee.com/verylazytech/e/304597)
+Link: [Buy Now](https://verylazytech.gumroad.com/l/RedTeamFieldManualV2)
 
 Description: A concise reference guide for Red Team operations. It covers a wide range of tactics, techniques, and procedures that are essential for simulating attacks and testing security measures.
 
@@ -79,7 +79,7 @@ Cost: Paid
 
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*450YW6hYkC8C5hCOzrLfGg.jpeg" alt="Alt text" width="200"/>
 
-Link: [Buy Now](https://buymeacoffee.com/verylazytech/e/304601)
+Link: [Buy Now](https://shop.verylazytech.com/l/RedTeamDevelopmentandOperationsAPracticalGuide)
 
 Description: This book offers in-depth coverage of Red Team operations, including planning, execution, and post-operation activities. It’s an essential resource for developing and managing Red Team engagements.
 
@@ -89,7 +89,7 @@ Cost: Paid
 
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*joVi8iEotOPiLIngrutheQ.jpeg" alt="Alt text" width="200"/>
 
-Link: [Buy Now](https://buymeacoffee.com/verylazytech/e/304604)
+Link: [Buy Now](https://shop.verylazytech.com/l/OperatorHandbookRedTeamOSINTBlueTeamReference)
 
 Description: A comprehensive handbook covering Red Team, OSINT, and Blue Team operations. It provides practical references and tools for security professionals involved in various aspects of cybersecurity.
 
@@ -99,7 +99,7 @@ Cost: Paid
 
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*8WueMBsjADwYzWDXzlOElg.jpeg" alt="Alt text" width="200"/>
 
-Link: [Buy Now](https://buymeacoffee.com/verylazytech/e/304618)
+Link: [Buy Now](https://verylazytech.gumroad.com/l/TribeofHackersRedTeam)
 
 Description: Insights from experienced Red Team professionals on how they approach various aspects of their work. This book offers practical advice and strategies for Red Team operations.
 
@@ -119,7 +119,7 @@ Cost: Paid
 
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*EGznLdqB8eza3DaYg3iwAg.jpeg" alt="Alt text" width="200"/>
 
-Link: [Buy Now](https://buymeacoffee.com/verylazytech/e/304622)
+Link: [Buy Now](https://verylazytech.gumroad.com/l/OSINTTechniques)
 
 Description: This book focuses on Open Source Intelligence (OSINT) techniques, offering practical tips for gathering and analyzing publicly available information.
 
@@ -129,7 +129,7 @@ Cost: Paid
 
 <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*MCYD0X1ixUDoLM792ehDeQ.jpeg" alt="Alt text" width="200"/>
 
-Link: [Buy Now](https://buymeacoffee.com/verylazytech/e/304621)
+Link: [Buy Now](https://verylazytech.gumroad.com/l/EvadingEDRTheDefinitiveGuidetoDefeatingEndpointDetectionSystems)
 
 Description: A guide to evading Endpoint Detection and Response (EDR) systems. It provides techniques and strategies for bypassing security controls and avoiding detection.
 
@@ -139,7 +139,7 @@ Cost: Paid
 
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*h116Q4DY6KbJJ8Prwp-ouA.jpeg" alt="Alt text" width="200"/>
 
-Link: [Buy Now](https://buymeacoffee.com/verylazytech/e/304623)
+Link: [Buy Now](https://verylazytech.gumroad.com/l/AttackingNetworkProtocolsAHackersGuidetoCaptureAnalysisandExploitation)
 
 Description: This book explores various network protocols and how they can be attacked. It provides practical examples and techniques for exploiting network-based vulnerabilities.
 
@@ -149,7 +149,7 @@ Cost: Paid
 
 <img src="https://miro.medium.com/v2/resize:fit:604/format:webp/1*iwpobX1XiANNzswlIzaR1Q.jpeg" alt="Alt text" width="200"/>
 
-Link: [Buy Now](https://buymeacoffee.com/verylazytech/e/304626)
+Link: [Buy Now](https://verylazytech.gumroad.com/l/BlackHatGraphQL)
 
 Description: An in-depth look at GraphQL security. This book covers potential vulnerabilities and attack methods specific to GraphQL applications.
 
@@ -159,7 +159,7 @@ Cost: Paid
 
 <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*3ucxpm-TkbdhWODEYYfgsQ.jpeg" alt="Alt text" width="200"/>
 
-Link: [Buy Now](https://buymeacoffee.com/verylazytech/e/304631)
+Link: [Buy Now](https://verylazytech.gumroad.com/l/HackingAPIs)
 
 Description: A practical guide to hacking APIs, covering various attack vectors and techniques for identifying and exploiting vulnerabilities in API implementations.
 
@@ -177,7 +177,7 @@ Cost: Mixed (Some free content; some paid courses)
 
 <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*8tx_MimVYyVXe8CmkKIwEg.jpeg" alt="Alt text" width="200"/>
 
-Link: [Buy Now](https://buymeacoffee.com/verylazytech/e/304635)
+Link: [Buy Now](https://verylazytech.gumroad.com/l/BlackHatGo)
 
 Description: A guide to using the Go programming language for offensive security purposes. It covers various tools and techniques for building security tools and exploits.
 
@@ -187,7 +187,7 @@ Cost: Paid
 
 <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*MD6A3kzl_Rmy3AzE6yliWA.jpeg" alt="Alt text" width="200"/>
 
-Link: [Buy Now](https://buymeacoffee.com/verylazytech/e/304633)
+Link: [Buy Now](https://verylazytech.gumroad.com/l/BlackHatPython2ndEditionPythonProgrammingforHackersandPentesters)
 
 Description: This book focuses on using Python for penetration testing and security research. It includes practical examples and code snippets for developing security tools.
 
@@ -197,7 +197,7 @@ Cost: Paid
 
 <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*IrhAfm2wRTIqnUlUFcQpWg.jpeg" alt="Alt text" width="200"/>
 
-Link: [Buy Now](https://buymeacoffee.com/verylazytech/e/304637)
+Link: [Buy Now](https://verylazytech.gumroad.com/l/BlackHatBash)
 
 Description: A guide to using Bash scripting for security operations. It covers various techniques for automating tasks and developing security tools using Bash.
 
